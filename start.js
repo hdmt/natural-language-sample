@@ -17,7 +17,7 @@ async function quickstart() {
 
   // The text to analyze
   const text =
-    '昨日はぐっすり眠れたので今日は体調が良い。天気も良くて、朝からとても明るい気分だ。';
+    'I slept well yesterday, so I feel fine today. The weather is good and I feel very bright from the morning.';
 
   const document = {
     content: text,
